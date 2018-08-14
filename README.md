@@ -1,2 +1,2 @@
 # sound 
-# Newest project moving toward a sound visualiser 
+# Newest project moving towards sound visualization
